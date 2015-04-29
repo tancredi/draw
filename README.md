@@ -30,6 +30,6 @@ Run the watch script when developing
 
     npm run watch
 
-## Licence
+## License
 
 Copyright (c) 2014 Tancredi Trugenberger. - Released under the MIT license
